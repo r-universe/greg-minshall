@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "us.census.geoheader"]
 	path = us.census.geoheader
 	url = https://github.com/cran/us.census.geoheader
-	shallow = true
-	registered = true
